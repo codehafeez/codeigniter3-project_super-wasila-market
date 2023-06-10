@@ -14,9 +14,15 @@ http://localhost/codeigniter3-project_super-wasila-market
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/codeIgniter3-crud-ajax/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/codeIgniter3-crud-ajax/main/Screenshots/Output-02.png)
-![](https://raw.githubusercontent.com/codehafeez/codeIgniter3-crud-ajax/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/1.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/2.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/3.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/4.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/5.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/6.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/7.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/8.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-project_super-wasila-market/main/Screenshots/9.png)
 
 
 ## 🔗 www.codehafeez.com
